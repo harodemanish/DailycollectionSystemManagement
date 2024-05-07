@@ -7,7 +7,7 @@
         <div class="col-md">
             <div class="form-floating">
                 <input type="text" class="form-control" id="TextBox1" runat="server" placeholder="Enter your Full Name">
-                <label for="floatingInputGrid">Full Name</label>
+                <label for="floatingInputGrid">Name</label>
             </div>
         </div>
 
